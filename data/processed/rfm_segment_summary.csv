@@ -1,0 +1,6 @@
+segment,customer_count,total_sales_value,avg_transactions,avg_sales_value,customer_share_pct,sales_share_pct
+Champions,344583,594446.29,61.58,1.73,25.29,67.2
+Loyal Customers,119387,110500.68,33.86,0.93,8.76,12.49
+At Risk,200221,92016.97,17.13,0.46,14.7,10.4
+Low Engagement,514613,55130.71,3.69,0.11,37.78,6.23
+Potential Loyalists,183477,32551.33,6.53,0.18,13.47,3.68

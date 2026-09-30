@@ -1,0 +1,82 @@
+product_group_name,price_band,transaction_count,total_sales_value,category_transaction_share_pct,category_sales_value_share_pct
+Accessories,Very Low,969404,8954.55,60.6,35.97
+Accessories,Low,263086,4426.83,16.45,17.78
+Accessories,Medium,205102,4930.44,12.82,19.81
+Accessories,High,100190,3239.88,6.26,13.01
+Accessories,Very High,61811,3342.12,3.86,13.43
+Bags,Very Low,60,0.77,0.82,0.32
+Bags,Low,131,2.4,1.79,0.98
+Bags,Medium,1394,35.61,19.06,14.6
+Bags,High,5088,168.66,69.57,69.16
+Bags,Very High,640,36.45,8.75,14.94
+Cosmetic,Very Low,1500,8.77,100.0,100.0
+Fun,Very Low,5,0.04,100.0,100.0
+Furniture,Very Low,487,3.47,91.37,67.82
+Furniture,Low,3,0.06,0.56,1.11
+Furniture,Medium,19,0.47,3.56,9.14
+Furniture,High,1,0.04,0.19,0.72
+Furniture,Very High,23,1.08,4.32,21.21
+Garment Full body,Very Low,271422,2810.16,7.64,2.19
+Garment Full body,Low,398898,6897.21,11.23,5.37
+Garment Full body,Medium,720442,17676.56,20.28,13.76
+Garment Full body,High,861910,28402.04,24.26,22.11
+Garment Full body,Very High,1299798,72692.98,36.59,56.58
+Garment Lower body,Very Low,615879,6446.55,8.74,2.78
+Garment Lower body,Low,1016653,17347.74,14.43,7.48
+Garment Lower body,Medium,1312710,32242.31,18.63,13.91
+Garment Lower body,High,2066843,68486.65,29.33,29.55
+Garment Lower body,Very High,2033969,107251.38,28.87,46.27
+Garment Upper body,Very Low,3141638,30238.07,25.03,8.92
+Garment Upper body,Low,2695985,45542.66,21.48,13.44
+Garment Upper body,Medium,2512306,61276.21,20.01,18.08
+Garment Upper body,High,2017831,66666.36,16.07,19.67
+Garment Upper body,Very High,2184995,135258.49,17.41,39.9
+Garment and Shoe care,Very Low,132,1.16,47.31,23.77
+Garment and Shoe care,Low,97,1.6,34.77,32.71
+Garment and Shoe care,Medium,5,0.12,1.79,2.52
+Garment and Shoe care,High,12,0.4,4.3,8.11
+Garment and Shoe care,Very High,33,1.6,11.83,32.89
+Interior textile,Very Low,43,0.47,58.11,38.54
+Interior textile,Low,12,0.2,16.22,16.33
+Interior textile,Medium,4,0.1,5.41,7.82
+Interior textile,High,15,0.45,20.27,37.31
+Items,Very Low,5141,55.07,94.73,89.51
+Items,Low,119,2.02,2.19,3.28
+Items,Medium,139,3.5,2.56,5.69
+Items,High,28,0.94,0.52,1.53
+Nightwear,Very Low,42073,460.1,12.08,5.2
+Nightwear,Low,78269,1333.22,22.48,15.06
+Nightwear,Medium,107064,2623.23,30.75,29.63
+Nightwear,High,83565,2765.08,24.0,31.23
+Nightwear,Very High,37209,1671.17,10.69,18.88
+Shoes,Very Low,82580,818.91,11.08,2.83
+Shoes,Low,93541,1592.76,12.55,5.51
+Shoes,Medium,113271,2739.33,15.19,9.48
+Shoes,High,135610,4469.67,18.19,15.47
+Shoes,Very High,320519,19267.68,42.99,66.7
+Socks & Tights,Very Low,534755,5088.82,77.99,65.15
+Socks & Tights,Low,123727,2055.88,18.04,26.32
+Socks & Tights,Medium,24175,571.39,3.53,7.32
+Socks & Tights,High,2998,92.26,0.44,1.18
+Socks & Tights,Very High,57,2.78,0.01,0.04
+Stationery,Very Low,229,0.73,100.0,100.0
+Swimwear,Very Low,445041,4427.93,17.25,7.68
+Swimwear,Low,756681,12772.02,29.34,22.16
+Swimwear,Medium,816757,19789.27,31.67,34.34
+Swimwear,High,380408,11805.65,14.75,20.49
+Swimwear,Very High,180335,8833.3,6.99,15.33
+Underwear,Very Low,609353,6199.9,23.75,11.4
+Underwear,Low,663455,11222.74,25.86,20.63
+Underwear,Medium,730773,17567.63,28.48,32.3
+Underwear,High,431448,13556.92,16.81,24.92
+Underwear,Very High,130829,5848.67,5.1,10.75
+Underwear/nightwear,Very Low,20,0.26,3.58,1.66
+Underwear/nightwear,Low,108,1.84,19.32,11.81
+Underwear/nightwear,Medium,119,2.92,21.29,18.75
+Underwear/nightwear,High,294,9.72,52.59,62.45
+Underwear/nightwear,Very High,18,0.83,3.22,5.33
+Unknown,Very Low,6438,57.9,6.63,2.23
+Unknown,Low,16968,291.94,17.49,11.23
+Unknown,Medium,40684,990.86,41.92,38.13
+Unknown,High,23548,768.77,24.27,29.58
+Unknown,Very High,9402,489.26,9.69,18.83

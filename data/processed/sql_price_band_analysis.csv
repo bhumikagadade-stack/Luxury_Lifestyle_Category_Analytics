@@ -1,0 +1,6 @@
+price_band,transaction_count,transaction_share_pct,total_sales_value,sales_value_share_pct,avg_observed_price
+Very Low,6357665,20.0,60582.8,6.85,0.00953
+Low,6357665,20.0,106071.7,11.99,0.01668
+Medium,6357665,20.0,153485.66,17.35,0.02414
+High,6357665,20.0,206071.39,23.29,0.03241
+Very High,6357664,20.0,358434.42,40.52,0.05638

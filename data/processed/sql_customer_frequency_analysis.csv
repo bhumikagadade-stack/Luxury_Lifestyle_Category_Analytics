@@ -1,0 +1,6 @@
+purchase_frequency_group,customer_count,total_transactions,total_sales_value,avg_transactions,avg_customer_value
+One-time,131514,131514.0,4995.8,1.0,0.038
+Occasional,305209,870268.0,25597.89,2.85,0.0839
+Repeat,342098,2690956.0,72955.84,7.87,0.2133
+Frequent,281167,5625375.0,149565.76,20.01,0.5319
+Highly Frequent,302293,22470211.0,631530.68,74.33,2.0891

@@ -1,0 +1,20 @@
+product_group_name,transaction_count,transaction_share_pct,total_sales_value,sales_value_share_pct,avg_observed_price
+Garment Upper body,12552755,39.49,338981.79,38.32,0.027
+Garment Lower body,7046054,22.17,231774.62,26.2,0.03289
+Garment Full body,3552470,11.18,128478.94,14.52,0.03617
+Swimwear,2579222,8.11,57628.17,6.51,0.02234
+Underwear,2565858,8.07,54395.86,6.15,0.0212
+Accessories,1599593,5.03,24893.82,2.81,0.01556
+Shoes,745521,2.35,28888.36,3.27,0.03875
+Socks & Tights,685712,2.16,7811.14,0.88,0.01139
+Nightwear,348180,1.1,8852.82,1.0,0.02543
+Unknown,97040,0.31,2598.73,0.29,0.02678
+Bags,7313,0.02,243.88,0.03,0.03335
+Items,5427,0.02,61.53,0.01,0.01134
+Cosmetic,1500,0.0,8.77,0.0,0.00585
+Underwear/nightwear,559,0.0,15.57,0.0,0.02785
+Furniture,533,0.0,5.11,0.0,0.00959
+Garment and Shoe care,279,0.0,4.88,0.0,0.01748
+Stationery,229,0.0,0.73,0.0,0.0032
+Interior textile,74,0.0,1.22,0.0,0.01645
+Fun,5,0.0,0.04,0.0,0.00888
